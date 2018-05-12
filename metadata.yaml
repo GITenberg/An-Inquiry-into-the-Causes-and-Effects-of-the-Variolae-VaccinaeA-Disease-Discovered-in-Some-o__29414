@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33899
     wikipedia: http://en.wikipedia.org/wiki/Edward_Jenner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29414#An-Inquiry-into-the-Causes-and-Effects-of-the-Variolae-VaccinaeA-Disease-Discovered-in-Some-o_
 gutenberg_issued: '2009-07-15'
 gutenberg_type: Text
 identifiers:
